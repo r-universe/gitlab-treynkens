@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "smurf"]
+	path = smurf
+	url = https://gitlab.com/treynkens/smurf
+	shallow = true
+	registered = true
